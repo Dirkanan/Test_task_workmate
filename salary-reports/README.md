@@ -39,7 +39,7 @@ salary-reports/
 
 ### Установка
 ```bash
-git clone https://github.com/yourrepo/salary-reports.git
+git clone https://github.com/Dirkanan/Test_task_workmate/tree/main
 cd salary-reports
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
