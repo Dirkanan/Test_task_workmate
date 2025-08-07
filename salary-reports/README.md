@@ -105,8 +105,7 @@ python main.py data.csv --report new
 | Часы        | hours, hours_worked, work_hrs |
 | Ставка      | rate, salary, hourly_rate     |
 
-## 📜 Лицензия
-MIT License. Copyright (c) 2023 Ваше Имя
+
 
 ---
 
